@@ -1,0 +1,28 @@
+/*
+filename: Sean Cummings
+author: Sean Cummings
+created 26/08/2025
+last modified 26/08/2025
+description: refers to lab04.html
+*/
+h1 {
+    color: purple;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+ * { font-family: calibri, sans-serif; }  
+ * { color: #2f4f4f;} 
+
+ h2 {
+    color: rgb(0, 128, 128);
+    font-weight: bold;
+ }
+
+aside, footer { font-style: italic; }
+h1, h2, h3 {font-family: Arial, sans-serif;}
+table, th, td {border: 1px solid black;}
+
+#images {
+         text-align : center;  /* careful: center has US spelling */
+         }
